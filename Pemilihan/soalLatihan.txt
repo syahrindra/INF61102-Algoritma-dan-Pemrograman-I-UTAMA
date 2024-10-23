@@ -9,12 +9,15 @@ OUTPUT: nilai x, nilai y, nilai z setelah ditukar Contoh: x=3, y=4, z=2
 INPUT: nilai uang = 7500
 OUTPUT: pecahan 5000 = 1, pecahan 1000 = 2, pecahan 100 = 5
  5.	Dibaca dua buah tanggal (dd-mm). Tulislah dalam notasi algoritma untuk menghitung berapa hari jarak kedua tanggal tersebut. Asumsikan: 1 tahun = 365 hari, 1 bulan = 30 hari, kedua tanggal berada pada tahun yang sama dan bukan tahun kabisat. Contoh:
-INPUT: tanggal ke-1: 01-02
-tanggal ke-2: 05-03 OUTPUT: jumlah hari = 32 hari
+INPUT: 
+tanggal ke-1: 01-02
+tanggal ke-2: 05-03 
+OUTPUT: jumlah hari = 32 hari
 6.	Buatlah algoritma untuk menghitung jumlah bonus penjualan buku yang akan didapatkan karyawan. Karyawan tersebut akan mendapatkan bonus 15% dari total penjualan buku jika dia berhasil menjual buku minimal 20 buku. Harga buku tersebut 20.000/buku. Contoh
 INPUT: jumlah buku yang terjual = 30 OUTPUT: bonus yang didapat = 90.000
 7.	Buatlah algoritma untuk menentukan tunjangan pegawai dilihat dari lama bekerjanya. Jika pegawai telah bekerja selama lebih dari 5 tahun, maka besar tunjangan yang di dapatkan adalah 1x gaji pokoknya. Jika, lama bekerja belum mencapai 5 tahun, tidak mendapat tunjangan. Contoh:
-INPUT: lama bekerja = 6, gaji pokok = 5.000.000 OUTPUT: tunjangan yang didapatkan = 5.000.000
+INPUT: lama bekerja = 6, gaji pokok = 5.000.000 
+OUTPUT: tunjangan yang didapatkan = 5.000.000
 8.	Sebuah pasar swalayan akan memberikan diskon 20% kepada pembeli yang total belanjaannya di atas 300.000. Buatlah algoritma untuk menghitung berapa jumlah yang harus dibayar pembeli. Contoh:
 INPUT: total belanja = 400.000
 OUTPUT: total belanja dikurangi diskon = 320.000
